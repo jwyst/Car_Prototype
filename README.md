@@ -1,2 +1,2 @@
 # Car_Prototype
- this repo is for prototype 1 in Unity Junior Programming Pathway
+ This repo is for prototype 1 (Car prototype) in Unity Junior Programming Pathway. 
